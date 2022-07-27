@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![isanaction's GitHub stats](https://github-readme-stats.vercel.app/api?username=isanaction&count_private=true&show_icons=true)](https://github.com/isanaction/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isanaction&count_private=true)](https://github.com/isanaction/github-readme-stats)
+<a href="https://github.com/isanaction/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=isanaction&count_private=true&show_icons=true&theme=react" />
+</a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanaction&theme=react" />
+</a>
